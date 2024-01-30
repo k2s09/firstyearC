@@ -1,4 +1,4 @@
-## Control Statements: If statement
+## Lab 4: Control Statements
 
 1. Write a program to check whether the given number is odd or even.
 2. Write a program to check whether a given year is leap year or not.
