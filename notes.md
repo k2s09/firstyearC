@@ -39,26 +39,25 @@
 3. Write a program to program to input the number of week's days (1-7) and translate to its equivalent name of the day of the week. (e.g., 1 to Sunday, 2 to Monday)
 4. Write a program to design a calculator that performs addition, subtraction, minus, and division operation. This program inputs two operands and an operator and then displays the calculated results.
 5. Write a program to calculate a bill for internet browsing. The conditions are given below:
-> Minimum Rs. 200 for up to 100 calls.
-Plus, Rs. 0.60 per call for the next 50 calls.
-Plus, Rs. 0.50 per call for the next 50 calls.
-Plus, Rs. 0.40 per call for any call beyond 200 calls.
+> Minimum Rs. 200 for up to 100 calls.  
+Plus, Rs. 0.60 per call for the next 50 calls.  
+Plus, Rs. 0.50 per call for the next 50 calls.  
+Plus, Rs. 0.40 per call for any call beyond 200 calls.  
 6. Write a program to calculate an amount of a telephone bill for the following criteria. (Without Loop)
-> Calls       charge per call (Rs.)
-1-150       0
-151-250     .9
-251-400     1.2
-\>400       1.5
+> Calls       charge per call (Rs.)  
+1-150       0  
+151-250     .9  
+251-400     1.2  
 7. Write a program to calculate the amount of an electricity bill for the following criteria. (Without Loop)
-> Units                   Charge per unit (Rs.)
-First, 1-100 up to      1.5
-Next, 101-200 up to     2.5
-Next, 201-400 up to     3.5
+> Units                   Charge per unit (Rs.)  
+First, 1-100 up to      1.5  
+Next, 101-200 up to     2.5  
+Next, 201-400 up to     3.5  
 8. Write a program to calculate the discount in rupees for the following criterion. (Without Loop)
-> Cost price  Discount
-\>=800      25%
-500-800     20%
-<500        0%
+> Cost price  Discount  
+\>=800      25%  
+500-800     20%  
+<500        0%  
 
 ## Lab 6: Control Structures: Loops
 
@@ -73,36 +72,36 @@ Next, 201-400 up to     3.5
 
 ## Lab 7: Control Structures: Nested Loops
 
-1. Write a program to print different patterns using nested loops.
-	1
-	2 3
-	4 5 6
-	7 8 9 10
-	11 12 13 14 15
+1. Write a program to print different patterns using nested loops.  
+	1  
+	2 3  
+	4 5 6  
+	7 8 9 10  
+	11 12 13 14 15  
 	
-	1
-	2 2
-	3 3 3
-	4 4 4 4
-	5 5 5 5 5
+	1  
+	2 2  
+	3 3 3  
+	4 4 4 4  
+	5 5 5 5 5  
 	
-	5 5 5 5 5
-	4 4 4 4
-	3 3 3
-	2 2
-	1
+	5 5 5 5 5  
+	4 4 4 4  
+	3 3 3  
+	2 2  
+	1  
 	
-	1
-	2 4
-	3 5 7
-	6 8 10 12
-	9 11 13 15 17
-2. Write a program to generate the multiplicative table for n numbers up to k terms (nested loops).
-	1 2 3 4 5...K2
-	4 6 8 10 2*k
-	............
-	............
-	n........... n*K
+	1  
+	2 4  
+	3 5 7  
+	6 8 10 12  
+	9 11 13 15 17  
+2. Write a program to generate the multiplicative table for n numbers up to k terms (nested loops).  
+	1 2 3 4 5...K2  
+	4 6 8 10 2*k  
+	............  
+	............  
+	n........... n*K  
 3. Write a program to print the Fibonacci numbers that fall in the given range.
 4. Write a program to print the Nth prime number.
 5. Write a program to print the Nth armstrong number.
