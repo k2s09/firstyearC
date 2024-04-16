@@ -146,3 +146,11 @@ Next, 201-400 up to     3.5
 5. Write a function to generate the nth Fibonacci term using recursion. Print first N Fibonacci terms using this function. Hint: (Fibonacci series is 0, 1, 1, 2, 3, 5, 8,)
 6. Write a program to check if the given string is a palindrome or not, using the string handling function.
 7. Write a function Sort for sorting a list of names which will use a function compare to compare two names. (Selection / bubble Sort may be used).
+
+## Lab 12: Pointers
+
+1. Write a program to access two integers using pointers and add them.
+2. Write a program to find out the greatest and the smallest among the three numbers using pointers.
+3. Write a program to determine the length of a character string using a pointer.
+4. Write a program to compute the sum of all elements stored in an array using a pointer.
+5. Write a program to determine whether a substring (string 1) is in the main string or not. If present, return the pointer of the first occurrence
