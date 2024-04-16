@@ -153,4 +153,4 @@ Next, 201-400 up to     3.5
 2. Write a program to find out the greatest and the smallest among the three numbers using pointers.
 3. Write a program to determine the length of a character string using a pointer.
 4. Write a program to compute the sum of all elements stored in an array using a pointer.
-5. Write a program to determine whether a substring (string 1) is in the main string or not. If present, return the pointer of the first occurrence
+5. Write a program to determine whether a substring (string 1) is in the main string or not. If present, return the pointer of the first occurrence.
